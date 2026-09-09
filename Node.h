@@ -2,6 +2,7 @@
 #define NODO_H
 
 template<typename T>
+
 class Node {
 private:
 	T value;
